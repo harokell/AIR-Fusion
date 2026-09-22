@@ -5,7 +5,7 @@
 Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu  
 † First student author
 
-[Paper](https://www.ijcai.org/proceedings/2026/105) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105) · [中文介绍](README.zh-CN.md) · [Qiang's homepage](https://qiangzhang-dev.github.io/)
+[Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Paper](https://www.ijcai.org/proceedings/2026/105) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105) · [中文介绍](README.zh-CN.md) · [Qiang's homepage](https://qiangzhang-dev.github.io/)
 
 > **Repository status:** This repository currently provides the paper overview and citation. Source code, model weights, environment files and runnable examples have not yet been uploaded.
 
