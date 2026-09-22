@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Zhang
     given-names: Qiang
-repository-code: "https://github.com/harokell/AIR-Fusion"
+repository-code: "https://github.com/qiangzhang-dev/AIR-Fusion"
 url: "https://www.ijcai.org/proceedings/2026/105"
 preferred-citation:
   type: conference-paper
