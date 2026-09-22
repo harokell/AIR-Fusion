@@ -21,17 +21,9 @@ The method addresses image fusion under challenging conditions such as rain, haz
 - **Cross-Modal Bridging Adapter (CMBA):** aligns infrared cues and text instructions with the backbone's conditioning space and injects them into multi-scale denoising features.
 - **Trajectory-Constrained Rectifier (TCR):** uses source-image structure in a pixel–latent loop to constrain sampling and recover fine detail.
 
-```mermaid
-flowchart TD
-    A["Infrared + degraded visible images"] --> B["Frozen restoration diffusion model"]
-    C["Text instructions + infrared cues"] --> D["CMBA conditioning"]
-    D --> B
-    B --> E["TCR: source-guided rectification"]
-    E --> B
-    E --> F["Restored fused image"]
-```
+![AIR-Fusion overall framework — original Figure 2 from the paper](air-fusion-framework.png)
 
-This diagram is a conceptual summary. See **Figure 2 on page 3 of the [paper PDF](https://www.ijcai.org/proceedings/2026/0105.pdf#page=3)** for the full architecture and **Figure 1** for the comparison with other fusion paradigms.
+**Figure 2. Overall framework of AIR-Fusion.** Original figure from the [published paper (page 3)](https://www.ijcai.org/proceedings/2026/0105.pdf#page=3), showing text interaction, the unified core architecture and the restoration–fusion process. Click the image to view it at full resolution.
 
 ## Results and reproduction
 
