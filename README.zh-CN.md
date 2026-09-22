@@ -6,7 +6,7 @@
 **作者：** Bing Cao、**Qiang Zhang**†、Xingxin Xu、Pengfei Zhu  
 † 学生第一作者；作者顺序与正式论文一致。
 
-[论文页面](https://www.ijcai.org/proceedings/2026/105) · [论文 PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [English](README.md) · [个人主页](https://qiangzhang-dev.github.io/)
+[项目页](https://qiangzhang-dev.github.io/air-fusion/) · [论文页面](https://www.ijcai.org/proceedings/2026/105) · [论文 PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [English](README.md) · [个人主页](https://qiangzhang-dev.github.io/)
 
 > 当前仓库提供论文介绍与引用信息。实现代码、模型权重、环境配置和可运行示例尚未上传。
 
