@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite the IJCAI 2026 paper using the preferred citation below."
+title: "AIR-Fusion: Interactive All-in-One Image Restoration and Fusion"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Qiang
+repository-code: "https://github.com/harokell/AIR-Fusion"
+url: "https://www.ijcai.org/proceedings/2026/105"
+preferred-citation:
+  type: conference-paper
+  title: "Interactive All-in-One Image Restoration and Fusion"
+  authors:
+    - family-names: Cao
+      given-names: Bing
+    - family-names: Zhang
+      given-names: Qiang
+    - family-names: Xu
+      given-names: Xingxin
+    - family-names: Zhu
+      given-names: Pengfei
+  collection-title: "Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence"
+  year: 2026
+  month: 8
+  start: 935
+  end: 943
+  doi: "10.24963/ijcai.2026/105"
+  url: "https://www.ijcai.org/proceedings/2026/105"
