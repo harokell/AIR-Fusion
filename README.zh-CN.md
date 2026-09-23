@@ -6,9 +6,9 @@
 **作者：** Bing Cao、**Qiang Zhang**†、Xingxin Xu、Pengfei Zhu  
 † 学生第一作者；作者顺序与正式论文一致。
 
-[项目页](https://qiangzhang-dev.github.io/air-fusion/) · [论文页面](https://www.ijcai.org/proceedings/2026/105) · [论文 PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [English](README.md) · [个人主页](https://qiangzhang-dev.github.io/)
+[项目页](https://qiangzhang-dev.github.io/air-fusion/) · [中文解读](https://qiangzhang-dev.github.io/notes/air-fusion/) · [论文页面](https://www.ijcai.org/proceedings/2026/105) · [论文 PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [English](README.md) · [个人主页](https://qiangzhang-dev.github.io/)
 
-> 当前仓库提供论文介绍与引用信息。实现代码、模型权重、环境配置和可运行示例尚未上传。
+> 本仓库提供论文介绍、原始框架图、中文解读与引用信息。代码与模型权重暂未公开。
 
 ## 解决什么问题？
 
@@ -28,9 +28,9 @@ AIR-Fusion 探索如何利用预训练扩散模型的恢复能力，在文本指
 
 定量结果、对比设置和局限请以正式论文为准。
 
-## 实现状态
+## 进一步阅读
 
-目前没有可执行代码或复现结果。后续安装、推理、训练和评测说明将与真实实现一起整理；当前不提供占位运行命令。
+[中文论文解读](https://qiangzhang-dev.github.io/notes/air-fusion/)介绍研究动机、CMBA 与 TCR 的设计，以及如何理解实验结果。[项目页](https://qiangzhang-dev.github.io/air-fusion/)提供完整对比表格、原始实验图和局限说明。
 
 ## 引用与联系
 
