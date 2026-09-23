@@ -5,9 +5,9 @@
 Bing Cao, **Qiang Zhang**†, Xingxin Xu, Pengfei Zhu  
 † First student author
 
-[Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Paper](https://www.ijcai.org/proceedings/2026/105) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105) · [中文介绍](README.zh-CN.md) · [Qiang's homepage](https://qiangzhang-dev.github.io/)
+[Project page](https://qiangzhang-dev.github.io/air-fusion/) · [Paper](https://www.ijcai.org/proceedings/2026/105) · [PDF](https://www.ijcai.org/proceedings/2026/0105.pdf) · [BibTeX](https://www.ijcai.org/proceedings/2026/bibtex/105) · [中文解读](https://qiangzhang-dev.github.io/notes/air-fusion/) · [中文介绍](README.zh-CN.md) · [Qiang's homepage](https://qiangzhang-dev.github.io/)
 
-> **Repository status:** This repository currently provides the paper overview and citation. Source code, model weights, environment files and runnable examples have not yet been uploaded.
+> **Repository status:** Paper overview, original figures, a Chinese research note and citation are available. Implementation and model weights are not publicly available.
 
 ## Overview
 
@@ -25,11 +25,11 @@ The method addresses image fusion under challenging conditions such as rain, haz
 
 **Figure 2. Overall framework of AIR-Fusion.** Original figure from the [published paper (page 3)](https://www.ijcai.org/proceedings/2026/0105.pdf#page=3), showing text interaction, the unified core architecture and the restoration–fusion process. Click the image to view it at full resolution.
 
-## Results and reproduction
+## Results and further reading
 
 The paper reports experiments across multiple datasets and degradation settings. Refer to the published tables and figures for quantitative results, comparison protocols and limitations.
 
-This repository does **not** currently contain an executable implementation or independently reproduced results. Installation, inference and training commands will be documented alongside the actual implementation.
+The [project page](https://qiangzhang-dev.github.io/air-fusion/) presents the published comparisons and limitations. The [Chinese research note](https://qiangzhang-dev.github.io/notes/air-fusion/) explains the motivation, CMBA and TCR, and how to interpret the experiments.
 
 ## Citation
 
